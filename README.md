@@ -18,5 +18,5 @@ This repository serves the purpose of displaying dashboards, charts and table of
 * Command to run
     - streamlit run Dashboard.py
       
-### Want to see the running app
-    - Click here - https://santhiya29-sales-analysis-dashboard.streamlit.app/
+### Want to see the running app? ###
+- Click [here](https://santhiya29-sales-analysis-dashboard.streamlit.app/) to access the Streamlit app.
